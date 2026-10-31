@@ -246,4 +246,4 @@ This repository serves as the official landing page for Magic: The Gathering - T
 **Get the most recent version of Magic: The Gathering - Tactics today!**
 
 ---
-**Last updated:** 2026-10-30 21:12:04 UTC
+**Last updated:** 2026-10-31 01:11:30 UTC
